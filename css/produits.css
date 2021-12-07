@@ -1,0 +1,44 @@
+body{
+    background-color: #DFDFDF;
+}
+
+h1{
+    margin: 120px 0 60px 0 ;
+    text-align: center;
+}
+
+p{
+    margin: 0 5%;
+}
+
+.det{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+section img{
+    width: 400px;
+    margin-left: 5%;
+}
+.det p{
+    max-width: 300px;
+    margin-bottom: 10px;
+}
+section img:last-of-type{
+    margin-top: 50px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.det a{
+    margin-left: 150px;
+    margin-top: 20px;
+    width: 236px;
+    height: 46px;
+    background-color: red;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
